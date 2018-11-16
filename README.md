@@ -8,5 +8,5 @@ gcloud config set composer/location asia-northeast1
 ```
 gcloud composer environments create composer-demo
 ```
-3) Upload the DAG (composer_demo.py) to the DAGs folder under environment configuration: <br/>
-4) Check the DAG status under Airflow web UI: <br/>
+3) Upload the DAG file (composer_demo.py) to the DAGs folder: <br/>
+4) Check the DAG status under Airflow webserver: <br/>
