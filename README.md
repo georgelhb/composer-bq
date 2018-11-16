@@ -1,4 +1,4 @@
-#### The code shows you how to use DAG to automate the task of moving GCS data to BQ table.
+#### The code shows how to use Cloud Composer DAG to automate the task of importing a csv file from a GCS bucket to a BigQuery table, run a query, and save the result to another BigQuery table.
 ---
 1) Set the default location for the Cloud Composer: <br/>
 ```
